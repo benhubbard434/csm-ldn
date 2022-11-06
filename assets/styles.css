@@ -16,7 +16,7 @@ p {font-family: 'Mabry'; font-weight: normal; font-style: normal; color: #0C1B33
 .header {background: #E43F6F; border-bottom: 3px solid #0C1B33; margin-bottom: 100px;}
 .logo {padding: 25px 0; }
 .logo h1 {color: #0C1B33; font-size: 90px; line-height: 125px;}
-.part-header {border-top: 3px solid #0C1B33; border-bottom: 3px solid #0C1B33; padding: 25px 0; margin-top: 50px; margin-bottom: 50px; background: #00E0CE;}
+.part-header {border-top: 3px solid #0C1B33; border-bottom: 3px solid #0C1B33; padding: 25px 0; margin-top: 100px; margin-bottom: 100px; background: #00E0CE;}
 .part-header h2 {font-size: 72px; line-height: 100px;}
 
 .content {width: 95%; max-width: 800px; margin: 0 auto;}
