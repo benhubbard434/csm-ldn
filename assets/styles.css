@@ -6,7 +6,10 @@ html {background: #F5F3F5;}
 
 
 h1, h2, h3, h4 {font-family: 'MabryBold'; font-weight: normal; font-style: normal; color: #0C1B33; text-align: center;}
-
+h1 {font-size: 90px; line-height: 125px;}
+h2 {font-size: 72px; line-height: 100px}
+h3 {font-size: 54px; line-height: 75px}
+h4 {font-size: 36px; line-height: 50px}
 p {font-family: 'Mabry'; font-weight: normal; font-style: normal; color: #0C1B33; font-size: 18px; line-height: 25px; text-align: center; margin-bottom: 25px;}
 
 .header {background: #E43F6F; border-bottom: 3px solid #0C1B33; margin-bottom: 100px;}
@@ -28,3 +31,4 @@ p {font-family: 'Mabry'; font-weight: normal; font-style: normal; color: #0C1B33
 /*form*/
 .form-holder {padding: 50px; border: 3px solid #0C1B33; width: 75%; margin: 25px auto; background: #FFD400; border-radius: 3px;}
 .formkit-input {width: 100%; padding: 12px; font-size: 18px; border: 3px solid #0C1B33; border-radius: 3px; margin-bottom: 12px;}
+.formkit-alert-success {font-family: 'Mabry'; font-weight: normal; font-style: normal; color: #0C1B33; font-size: 18px; line-height: 25px; text-align: center; margin-bottom: 25px; background: #AAD922; border: 3px solid #297045; border-radius: 3px;}
