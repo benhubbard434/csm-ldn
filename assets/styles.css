@@ -24,6 +24,10 @@ a {color: #E43F6F;}
 
 .content {width: 95%; max-width: 800px; margin: 0 auto;}
 
+.people {width: 100%; padding: 0;}
+.people-collection {width:  100%;}
+.faq {border-top: 3px solid #0C1B33; padding: 25px 0;}
+
 .green {color: #AAD922;}
 .yellow {color: #FFD400;}
 .purple {color: #C7B8EA;}
