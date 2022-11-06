@@ -46,7 +46,7 @@ p {font-family: 'Mabry'; font-weight: normal; font-style: normal; color: #0C1B33
 
 .cta:focus {outline: none;}
 
-.cta:hover {transition: 0.5s;box-shadow: 10px 10px 0 #E43F6F;}
+.cta:hover {transition: 0.5s;box-shadow: 10px 10px 0 #E43F6F; cursor: pointer;}
 
 .cta span:nth-child(2) {transition: 0.5s;margin-right: 0px;
 }
