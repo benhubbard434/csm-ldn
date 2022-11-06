@@ -92,3 +92,5 @@ path.two {transition: 0.5s;transform: translateX(-30%);}
     	width: 100%;
     	border-right: 0px;
     	border-left: 0px;
+	}
+	.content { width: 100%; }
