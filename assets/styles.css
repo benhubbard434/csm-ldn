@@ -30,6 +30,12 @@ p {font-family: 'Mabry'; font-weight: normal; font-style: normal; color: #0C1B33
 
 
 /*form*/
-.form-holder {padding: 50px; border: 3px solid #0C1B33; width: 75%; margin: 25px auto; background: #FFD400; border-radius: 3px;}
+.form-holder {padding: 50px; border: 3px solid #0C1B33; width: 75%; margin: 25px auto; background: #FFD400; border-radius: 3px; margin-bottom: 100px;}
 .formkit-input {width: 100%; padding: 12px; font-size: 18px; border: 3px solid #0C1B33; border-radius: 3px; margin-bottom: 12px;}
 .formkit-alert-success {font-family: 'Mabry'; font-weight: normal; font-style: normal; color: #0C1B33; font-size: 18px; line-height: 25px; text-align: center; margin-bottom: 25px; background: #AAD922; border: 3px solid #297045; border-radius: 3px;}
+
+
+.artciles-space {border-top: 3px solid #0C1B33; border-bottom: 3px solid #0C1B33; padding: 25px 0; margin-top: 100px; margin-tobbom 100px; background: #C7B8EA;}
+.article {padding: 50px; border: 3px solid #0C1B33; width: 75%; margin: 25px auto; background: #F5F3F5; border-radius: 3px; margin-bottom: 50px;}
+
+.footer {}
