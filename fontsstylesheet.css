@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Nefilt';
+    src: url('Nefilt-Regular.woff2') format('woff2'),
+        url('Nefilt-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
