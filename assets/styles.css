@@ -7,9 +7,11 @@ h1, h2, h3, h4 {font-family: 'MabryBold'; font-weight: normal; font-style: norma
 
 p {font-family: 'Mabry'; font-weight: normal; font-style: normal; color: #0C1B33;}
 
-.header {background: #E43F6F; border-bottom: 3px solid #0C1B33;}
+.header {background: #E43F6F; border-bottom: 3px solid #0C1B33; margin-bottom: 50px;}
 .logo {padding: 20px 0 20px 20px; }
-.logo h1 {color: #00E0CE; font-size: 64px;}
+.logo h1 {color: #00E0CE; font-size: 64px; text-align: center;}
+
+.content {width: 95%; max-width: 800px; margin: 0 auto;}
 
 .green {color: #AAD922;}
 .yellow {color: #FFD400;}
