@@ -5,9 +5,10 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 html {background: #F5F3F5;}
 
 
-h1, h2, h3, h4 {font-family: 'MabryBold'; font-weight: normal; font-style: normal; color: #0C1B33; text-align: center;}
+h1, h2 {font-family: 'MabryBold'; font-weight: normal; font-style: normal; color: #0C1B33; text-align: center;}
 h1 {font-size: 90px; line-height: 125px;}
 h2 {font-size: 72px; line-height: 100px}
+h3, h4 {font-family: 'Mabry'; font-weight: normal; font-style: normal; color: #0C1B33; text-align: center;}
 h3 {font-size: 54px; line-height: 75px}
 h4 {font-size: 36px; line-height: 50px}
 p {font-family: 'Mabry'; font-weight: normal; font-style: normal; color: #0C1B33; font-size: 18px; line-height: 25px; text-align: center; margin-bottom: 25px;}
