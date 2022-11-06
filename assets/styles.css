@@ -48,6 +48,11 @@ a {color: #E43F6F;}
 .footer {padding: 25px 0; background: #0C1B33; color: #F5F3F5;}
 .footer p {color: #F5F3F5;}
 
+/* footer */
+.footermenu li {text-align: center; margin-bottom: 12px;}
+.footermenu li a {font-family: 'Mabry'; font-weight: normal; font-style: normal; color: #0C1B33; font-size: 18px; line-height: 25px; text-align: center; margin-bottom: 25px;}
+
+
 /*button*/
 .cta {display: flex; padding: 10px 45px;text-decoration: none;font-family: 'Poppins', sans-serif;font-size: 40px;color: white;background: #6225E6;transition: 1s;box-shadow: 6px 6px 0 black;transform: skewX(-15deg); margin: 25px auto;}
 .cta:focus {outline: none;}
