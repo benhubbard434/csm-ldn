@@ -1,11 +1,3 @@
-@font-face {
-    font-family: 'Nefilt';
-    src: url('https://csmldn.co.uk/assets/Nefilt-Regular.woff2') format('woff2'),
-        url('https://csmldn.co.uk/assets/Nefilt-Regular.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
 
 @font-face {
     font-family: 'Mabry';
@@ -20,6 +12,14 @@
     font-family: 'MabryBold';
     src: url('https://csmldn.co.uk/assets/MabryPro-Bold.woff2') format('woff2'),
         url('https://csmldn.co.uk/assets/MabryPro-Bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Jazmin';
+    src: url('https://csmldn.co.uk/assets/JazminAlt-Thin.woff2') format('woff2'),
+        url('https://csmldn.co.uk/assets/JazminAlt-Thin.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
